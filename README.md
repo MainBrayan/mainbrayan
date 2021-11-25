@@ -1,6 +1,7 @@
 ### Hi there 🦀 👋
 ```rust
-struct brayan {
-
+let mut brayan = person {
+  name: String::from("Brayan"),
+  last_name: String::from("Sanchez"),
 }
 ```
